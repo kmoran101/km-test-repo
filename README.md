@@ -3,3 +3,4 @@
 - Fork
   - Forking
 
+Hello.  Trying GIT from Linux commandline.
